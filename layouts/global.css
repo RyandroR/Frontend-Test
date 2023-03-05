@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "ItalianPlateNo1";
+    src: url(~assets//fonts//5f576c625cc18db11def0448_ItalianPlateNo1Expanded-Regular.ttf) format("truetype");
+}
+body {
+    font-family: "ItalianPlateNo1";
+}
